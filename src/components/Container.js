@@ -3,7 +3,7 @@ import Calculas from "./Calculas";
 import Display from "./Display";
 import Months from "./Months";
 import { MONTHS } from "../extra/months";
-import addMonthsFromCurrentDate from "../extra/addMonthsFromCurrentDate";
+import addMonthsFromCurrentDate from "../extra/addMonths";
 
 import { ReactComponent as House } from "../icons/house.svg";
 
