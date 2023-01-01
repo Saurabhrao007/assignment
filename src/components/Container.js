@@ -2,10 +2,10 @@ import React, { useState } from "react";
 import Calculas from "./Calculas";
 import Display from "./Display";
 import Months from "./Months";
-import { MONTHS } from "../extra/constants";
+import { MONTHS } from "../extra/months";
 import addMonthsFromCurrentDate from "../extra/addMonthsFromCurrentDate";
 
-import { ReactComponent as House } from "../icons/insuranceAuto.svg";
+import { ReactComponent as House } from "../icons/house.svg";
 
 import "./Container.css";
 
